@@ -1,10 +1,10 @@
-package com.pskwiercz.awss3;
+package com.pskwiercz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Awss3ApplicationTests {
+class AwsS3AppTests {
 
     @Test
     void contextLoads() {
